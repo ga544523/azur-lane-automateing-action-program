@@ -10,6 +10,4 @@ test=running or labeling mode(0=run 1=label)
 
 fightlevel=the fighting map 
 
-https://youtu.be/piQ5xyg_Cqw
-
-
+https://youtu.be/hZwhCn94oO0
